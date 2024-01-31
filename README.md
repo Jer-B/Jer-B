@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there!
 
-This Github is a secondary account centralized around my portfolio. (Maybe switch it as principal account over time)
+My portfolio:
+🇯🇵[Japanese・日本語版](https://jer-b.github.io/portofolio.html)
+🇬🇧[English Ver.](https://jer-b.github.io/portfolio_en.html)
+🇫🇷[Ver. Français](https://jer-b.github.io/portfolio_fr.html)
+
+This Github is a secondary account centralized around my portfolio. (Maybe will switch it as principal account over time)
 I'm a passionate developer constantly exploring the realms of technology and innovation. My areas of keen interest include:
 
 - **Blockchain**
 - **Web Development**
 - **Experiments**
-- ***And everything i come across that i like*
+- ***And everything i come across that i like or want to try*
 
 I'm always in the process of **updating**, **learning**, and **creating**, experimenting with things.
 
