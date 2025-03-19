@@ -27,9 +27,9 @@ I'm a passionate developer constantly exploring the realms of technology and inn
 
 I'm always in the process of **updating**, **learning**, and **creating**, experimenting with things.
 
-### 🚧 Portfolio Update - 2024
+### 🚧 Portfolio Update - 2025
 
-As of the **Q1 of 2024**, I'm deeply immersed in refining my portfolio, for a new job. My goal is to not only showcase my skills but also my dedication to growth. While some of my projects are **"Work in progress,"** I believe in transparency and sharing both the challenges and successes.
+As of the **Q1 of 2025**, I'm deeply immersed in refining my portfolio, for a new job. My goal is to not only showcase my skills but also my dedication to growth. While some of my projects are **"Work in progress,"** I believe in transparency and sharing both the challenges and successes.
 - I need some time to update, readapt, and upload past and current projects.
 
 ### 🤝 Let's Connect
